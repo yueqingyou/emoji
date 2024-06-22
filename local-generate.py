@@ -11,6 +11,7 @@ emoji_json = {}
 # 获取所有表情包目录
 all_emojis = [os.path.join(path, dir_name) for path, dir_list, file_list in os.walk(emoji_dir) for dir_name in dir_list]
 
+
 # 处理每一个表情包
 def emoji_fix(_emoji_dir):
     _container = []
@@ -34,6 +35,7 @@ def emoji_fix(_emoji_dir):
     }
     # 构建第一层结构
     emoji_json[_emoji_dir.split(os.sep)[1]] = _emoji
+
 
 if __name__ == '__main__':
     # 处理所有表情包
