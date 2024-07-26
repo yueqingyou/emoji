@@ -1727,6 +1727,135 @@
             }
         ]
     },
+    "流萤": {
+        "type": "image",
+        "container": [
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/8.png\">",
+                "text": "8"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/9.png\">",
+                "text": "9"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/14.png\">",
+                "text": "14"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/28.png\">",
+                "text": "28"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/29.png\">",
+                "text": "29"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/15.png\">",
+                "text": "15"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/17.png\">",
+                "text": "17"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/16.png\">",
+                "text": "16"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/12.png\">",
+                "text": "12"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/13.png\">",
+                "text": "13"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/11.png\">",
+                "text": "11"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/10.png\">",
+                "text": "10"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/21.png\">",
+                "text": "21"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/20.png\">",
+                "text": "20"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/22.png\">",
+                "text": "22"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/23.png\">",
+                "text": "23"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/27.png\">",
+                "text": "27"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/26.png\">",
+                "text": "26"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/18.png\">",
+                "text": "18"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/30.png\">",
+                "text": "30"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/24.png\">",
+                "text": "24"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/25.png\">",
+                "text": "25"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/31.png\">",
+                "text": "31"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/19.png\">",
+                "text": "19"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/4.png\">",
+                "text": "4"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/5.png\">",
+                "text": "5"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/7.png\">",
+                "text": "7"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/6.png\">",
+                "text": "6"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/2.png\">",
+                "text": "2"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/3.png\">",
+                "text": "3"
+            },
+            {
+                "icon": "<img src=\"https://emoji.vccv.cc/emoji/流萤/1.png\">",
+                "text": "1"
+            }
+        ]
+    },
     "初音未来": {
         "type": "image",
         "container": [
